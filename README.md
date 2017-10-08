@@ -1,1 +1,10 @@
-Various 3d design done in OpenSCAD
+Various 3d designs done in OpenSCAD
+===
+
+
+USBLogo.scad
+--
+
+
+
+![USBLogo](USBLogo.png)
