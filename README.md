@@ -5,28 +5,28 @@ Here's various 3d models I've designed in OpenSCAD mostly to be 3d printed.
 
 
 ### USBLogo.scad
-![USBLogo](USBLogo.png)
+![USBLogo](Images/USBLogo.png)
 
 ### NFCLogo.scad
-![NFCLogo](NFCLogo.png)
+![NFCLogo](Images/NFCLogo.png)
 
 ### Speaker_BarCade.scad
-![Speaker_BarCade](Speaker_BarCade.png)
+![Speaker_BarCade](Images/Speaker_BarCade.png)
 
 ### Terrace_Chair_Top_Cap.scad
-![Terrace_Chair_Top_Cap](Terrace_Chair_Top_Cap.png)
+![Terrace_Chair_Top_Cap](Images/Terrace_Chair_Top_Cap.png)
 
 ### Round_Strap.scad
-![Round_Strap](Round_Strap.png)
+![Round_Strap](Images/Round_Strap.png)
 
 ### Square_Strap.scad
-![Square_Strap](Square_Strap.png)
+![Square_Strap](Images/Square_Strap.png)
 
 ### ArduinoNano.scad
-![ArduinoNano](ArduinoNano.png)
+![ArduinoNano](Images/ArduinoNano.png)
 
 ### ArduinoNano_RFID_Box.scad
-![ArduinoNano_RFID_Box](ArduinoNano_RFID_Box.png)
+![ArduinoNano_RFID_Box](Images/ArduinoNano_RFID_Box.png)
 
 ### ArduinoNano_RFID_Box_Top.scad
-![ArduinoNano_RFID_Box_Top](ArduinoNano_RFID_Box_Top.png)
+![ArduinoNano_RFID_Box_Top](Images/ArduinoNano_RFID_Box_Top.png)
