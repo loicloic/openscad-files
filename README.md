@@ -18,3 +18,6 @@ Here's various 3d models I've designed in OpenSCAD mostly to be 3d printed.
 
 ### Round_Strap.scad
 ![Round_Strap](Round_Strap.png)
+
+### Square_Strap.scad
+![Square_Strap](Square_Strap.png)
