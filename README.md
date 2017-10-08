@@ -32,4 +32,4 @@ Here's various 3d models I've designed in OpenSCAD mostly to be 3d printed.
 ![ArduinoNano_RFID_Box_Top](Images/ArduinoNano_RFID_Box_Top.png)
 
 ### Pill.scad
-![Pill](Pill.png)
+![Pill](Images/Pill.png)
