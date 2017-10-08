@@ -1,6 +1,6 @@
 /* Pill Object, Loic August 2017 */
 
-//pill(200,10);
+pill(20,10);
 
 module pill(height,width)
 {

@@ -1,24 +1,6 @@
-
+/* Loic - August 2017 */
 
 diam = 20.5;
-
-/*
-translate([0,0,-20.5])
-{
-union()
-{
-bulb();
-
-translate([-3,0,-7]) 
-difference()
-{
-foot(30);
-translate([3,0,-5])     
-foot(22);
-}
-}
-}
-*/
 
 use <Pill.scad>
 
