@@ -6,7 +6,7 @@ teensyplusplus2();
 
 board_length 	= 51.2;
 board_width		= 18.1;
-board_height	= 1.6 + 4;	// board + usb connector
+board_height	= 1.6;	// board + usb connector
 
 // reset button
 module resetButton()
