@@ -33,3 +33,13 @@ Here's various 3d models I've designed in OpenSCAD mostly to be 3d printed.
 
 ### Pill.scad
 ![Pill](Images/Pill.png)
+
+### Teensy++2.scad
+![Teensy++2](Images/Teensy++2.png)
+
+### Teensy++2_enclosure.scad
+![Teensy++2_enclosure](Images/Teensy++2_enclosure.png)
+
+### Teensy++2_enclosure_rounded.scad
+![Teensy++2_enclosure_rounded](Images/Teensy++2_enclosure_rounded.png)
+
