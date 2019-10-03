@@ -2,11 +2,11 @@
 
 // ToDo: More work
 
-height = 3;
+height = 2;
 depth = 10;
 
-loop_length = 30;
-bracket_length = 20;
+loop_length = 20;
+bracket_length = 10;
 
 with_screw_holes = true;
 

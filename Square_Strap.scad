@@ -3,10 +3,10 @@
 // ToDo: Clean up, variable and module better naming
 
 height = 3;
-depth = 10;
+depth = 15;
 
-holder_length = 30;
-holder_height = 10;
+holder_length = 54;
+holder_height = 137;
 bracket_length = 10;
 
 with_screw_holes = true;
